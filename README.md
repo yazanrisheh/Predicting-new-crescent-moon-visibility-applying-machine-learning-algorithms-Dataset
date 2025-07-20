@@ -22,8 +22,8 @@ performance. The Random Forest and Support Vector Machine classifiers have provi
 results compared to other classifiers considered in this study in predicting the visibility of the new 
 Moon.
 
-# Model Architecture
-![Sample Plot](Moon Architecture.png)
+## Model Architecture
+![Model Architecture](Moon%20Architecture.png)
 
 ## Data Description
 Data collection To commence our study, we began by collecting data to construct our dataset. We 
@@ -39,6 +39,8 @@ V_eye. Table 1 outlines the important formulas for feature calculations. To focu
 Ramadan month, we removed all the Hijri months except for Ramadan. Additionally, we added data pertain
 ing to the last two Hijri years (1442 and 1443), including the current year 2022, by utilizing Accurate Times 
 5.6 software47. Our final dataset consists of a total of 358 observations from 43 countries
+
+![Moon Dataset Sample](Moon%20Dataset.png)
 
 ## Access Instructions  
 To obtain access to the dataset, please contact us by email at: **murad.al-rajab@adu.ac.ae**; **samia.loucif@zu.ac.ae**; **yazanrisheh@hotmail.com**  
