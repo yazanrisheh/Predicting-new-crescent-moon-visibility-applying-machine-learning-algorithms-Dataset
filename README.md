@@ -22,6 +22,9 @@ performance. The Random Forest and Support Vector Machine classifiers have provi
 results compared to other classifiers considered in this study in predicting the visibility of the new 
 Moon.
 
+# Model Architecture
+![Sample Plot](Moon Architecture.png)
+
 ## Data Description
 Data collection To commence our study, we began by collecting data to construct our dataset. We 
 ensured that our dataset was thorough and adhered to the necessary standards by sourcing data from the Inter
@@ -43,12 +46,10 @@ Access is granted on a case-by-case basis for academic and non-commercial resear
 
 ## Citation Requirement  
 If you use this dataset, you **must cite** the following publication:
-Al-Rajab, M., Loucif, S. & Al Risheh, Y. Predicting new crescent moon visibility applying machine learning algorithms. Sci Rep 13, 6674 (2023). https://doi.org/10.1038/s41598-023-32807-x
-
-> [Authors], *[Title of the Paper]*, Scientific Reports (2023).  
+> M. Al-Rajab, S. Loucif and Y. Al Risheh, "Predicting New Crescent Moon Visibility Applying Machine Learning Algorithms," *Scientific Reports*, vol. 13, no. 1, p. 6674, 2023.
 > DOI: [10.1038/s41598-023-32807-x](https://doi.org/10.1038/s41598-023-32807-x)
 
 ## Usage Restrictions  
 - Redistribution of the dataset to third parties is **not allowed**.  
-- The dataset is provided for **non-commercial research use only**.  
+- The dataset is provided for **academic and non-commercial research purposes only**.  
 - Use of the dataset must comply with all applicable laws and institutional guidelines.
